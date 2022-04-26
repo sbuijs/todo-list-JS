@@ -203,5 +203,4 @@ function removeLocalTodos(todo) {
     //use splice to remove the element that has that index
     todos.splice(todos.indexOf(todoIndex), 1);
     localStorage.setItem('todos', JSON.stringify(todos));
-
 };
