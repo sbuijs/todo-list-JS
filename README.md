@@ -9,8 +9,7 @@ Simple todo list with Vanilla Javascript<br/>
 </div>
 <br/>
 <br/>
-
-<img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
+<img width="1552" alt="Screenshot 2022-04-27 at 11 03 12" src="https://user-images.githubusercontent.com/1607627/165482745-3e395a9b-5e32-4cae-bd9b-54036ef5ebf0.png">
 
 ## Built With
 - Vanilla Javascript
